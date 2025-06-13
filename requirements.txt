@@ -1,0 +1,8 @@
+streamlit
+openai
+notion-client
+slack_sdk
+gspread
+oauth2client
+python-dotenv
+supabase
